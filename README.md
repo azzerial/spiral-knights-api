@@ -5,7 +5,7 @@ This repository is a showcase of the [spiral-knights-headless-client](https://gi
 ## Live demo
 
 > [!NOTE]
-> Feel free to use to mess around with this API, though it is a proof of concept/demonstration and may be unstable. <br>
+> Feel free to mess around with this API, remember though it is a proof of concept/demonstration and may be unstable. <br>
 > Changes regarding the routes or objects schema might happen overnight.
 
 - `OpenApi schema` - https://spiralknights.azzerial.net/openapi.json

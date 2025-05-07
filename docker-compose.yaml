@@ -1,0 +1,13 @@
+name: spiral-knights-api
+
+services:
+  java:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: spiral-knights-api
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
